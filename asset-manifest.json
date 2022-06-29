@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.61795dc9.css",
-    "main.js": "/static/js/main.1b79468e.js",
+    "main.css": "/static/css/main.ab482b62.css",
+    "main.js": "/static/js/main.032114f2.js",
     "static/js/787.49c08f55.chunk.js": "/static/js/787.49c08f55.chunk.js",
-    "static/media/banner.png": "/static/media/banner.896137787046ed837f10.png",
-    "static/media/library.png": "/static/media/library.06333daf9fcee2c76f90.png",
-    "static/media/cafeteria.png": "/static/media/cafeteria.f33027d1fb34e5cd0715.png",
-    "static/media/basketball.png": "/static/media/basketball.383f35c9170608f41d81.png",
-    "static/media/newyork.png": "/static/media/newyork.5f0e3a41335b0096be41.png",
-    "static/media/london.png": "/static/media/london.8ff0cae94abe20255b71.png",
+    "static/media/banner.webp": "/static/media/banner.e5f7c8f6720d19b5b4ff.webp",
+    "static/media/library.webp": "/static/media/library.ab2dcd67f6f647825a54.webp",
+    "static/media/cafeteria.webp": "/static/media/cafeteria.9db61b8eaa9f400e678c.webp",
     "static/media/background.jpg": "/static/media/background.178156c4e95feba4984d.jpg",
-    "static/media/washington.png": "/static/media/washington.310e678c281461921f72.png",
+    "static/media/basketball.webp": "/static/media/basketball.44a5633317c8cf046bab.webp",
     "static/media/certificate.jpg": "/static/media/certificate.a8b8ac9d2fc997d85d39.jpg",
     "static/media/about.jpg": "/static/media/about.4fb954bf3bfaab30b56b.jpg",
     "static/media/user2.jpg": "/static/media/user2.0d20d0f69481da48ef11.jpg",
+    "static/media/london.webp": "/static/media/london.9c7e81c2f6f1951666fc.webp",
+    "static/media/newyork.webp": "/static/media/newyork.1a292ef362f108acda8f.webp",
+    "static/media/washington.webp": "/static/media/washington.b8e7ffbf164cda643043.webp",
     "static/media/user1.jpg": "/static/media/user1.e0fc14f92d25b077b94c.jpg",
     "service-worker.js": "/service-worker.js",
     "index.html": "/index.html",
-    "main.61795dc9.css.map": "/static/css/main.61795dc9.css.map",
-    "main.1b79468e.js.map": "/static/js/main.1b79468e.js.map",
+    "main.ab482b62.css.map": "/static/css/main.ab482b62.css.map",
+    "main.032114f2.js.map": "/static/js/main.032114f2.js.map",
     "787.49c08f55.chunk.js.map": "/static/js/787.49c08f55.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.61795dc9.css",
-    "static/js/main.1b79468e.js"
+    "static/css/main.ab482b62.css",
+    "static/js/main.032114f2.js"
   ]
 }
