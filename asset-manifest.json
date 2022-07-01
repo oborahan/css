@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.aaf157d8.css",
-    "main.js": "/static/js/main.ec1d683e.js",
+    "main.css": "/static/css/main.db1e9bc4.css",
+    "main.js": "/static/js/main.e2494c89.js",
     "static/js/787.49c08f55.chunk.js": "/static/js/787.49c08f55.chunk.js",
     "static/media/banner.webp": "/static/media/banner.e5f7c8f6720d19b5b4ff.webp",
     "static/media/library.webp": "/static/media/library.ab2dcd67f6f647825a54.webp",
@@ -10,19 +10,19 @@
     "static/media/basketball.webp": "/static/media/basketball.44a5633317c8cf046bab.webp",
     "static/media/certificate.jpg": "/static/media/certificate.a8b8ac9d2fc997d85d39.jpg",
     "static/media/about.jpg": "/static/media/about.4fb954bf3bfaab30b56b.jpg",
-    "static/media/user2.jpg": "/static/media/user2.0d20d0f69481da48ef11.jpg",
     "static/media/london.webp": "/static/media/london.9c7e81c2f6f1951666fc.webp",
     "static/media/newyork.webp": "/static/media/newyork.1a292ef362f108acda8f.webp",
+    "static/media/user2.webp": "/static/media/user2.c782c146de1e3c4f7d65.webp",
     "static/media/washington.webp": "/static/media/washington.b8e7ffbf164cda643043.webp",
-    "static/media/user1.jpg": "/static/media/user1.e0fc14f92d25b077b94c.jpg",
+    "static/media/user1.webp": "/static/media/user1.81876ce78c38ba57291b.webp",
     "service-worker.js": "/service-worker.js",
     "index.html": "/index.html",
-    "main.aaf157d8.css.map": "/static/css/main.aaf157d8.css.map",
-    "main.ec1d683e.js.map": "/static/js/main.ec1d683e.js.map",
+    "main.db1e9bc4.css.map": "/static/css/main.db1e9bc4.css.map",
+    "main.e2494c89.js.map": "/static/js/main.e2494c89.js.map",
     "787.49c08f55.chunk.js.map": "/static/js/787.49c08f55.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aaf157d8.css",
-    "static/js/main.ec1d683e.js"
+    "static/css/main.db1e9bc4.css",
+    "static/js/main.e2494c89.js"
   ]
 }
